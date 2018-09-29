@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "warningcpu"
+		},
+		{
+			"path": "Cryptography/HASH"
+		},
+		{
+			"path": "webapi"
+		}
+	],
+	"settings": {}
+}

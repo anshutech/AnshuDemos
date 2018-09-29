@@ -1,0 +1,11 @@
+/Users/anjanikumar/Projects/Anshu/webapi/bin/Debug/netcoreapp2.0/webapi.deps.json
+/Users/anjanikumar/Projects/Anshu/webapi/bin/Debug/netcoreapp2.0/webapi.runtimeconfig.json
+/Users/anjanikumar/Projects/Anshu/webapi/bin/Debug/netcoreapp2.0/webapi.runtimeconfig.dev.json
+/Users/anjanikumar/Projects/Anshu/webapi/bin/Debug/netcoreapp2.0/webapi.dll
+/Users/anjanikumar/Projects/Anshu/webapi/bin/Debug/netcoreapp2.0/webapi.pdb
+/Users/anjanikumar/Projects/Anshu/webapi/obj/Debug/netcoreapp2.0/webapi.csprojResolveAssemblyReference.cache
+/Users/anjanikumar/Projects/Anshu/webapi/obj/Debug/netcoreapp2.0/webapi.csproj.CoreCompileInputs.cache
+/Users/anjanikumar/Projects/Anshu/webapi/obj/Debug/netcoreapp2.0/webapi.AssemblyInfoInputs.cache
+/Users/anjanikumar/Projects/Anshu/webapi/obj/Debug/netcoreapp2.0/webapi.AssemblyInfo.cs
+/Users/anjanikumar/Projects/Anshu/webapi/obj/Debug/netcoreapp2.0/webapi.dll
+/Users/anjanikumar/Projects/Anshu/webapi/obj/Debug/netcoreapp2.0/webapi.pdb
