@@ -1,0 +1,10 @@
+/Users/anjanikumar/Projects/Anshu/warningcpu/bin/Debug/netcoreapp2.0/warningcpu.deps.json
+/Users/anjanikumar/Projects/Anshu/warningcpu/bin/Debug/netcoreapp2.0/warningcpu.runtimeconfig.json
+/Users/anjanikumar/Projects/Anshu/warningcpu/bin/Debug/netcoreapp2.0/warningcpu.runtimeconfig.dev.json
+/Users/anjanikumar/Projects/Anshu/warningcpu/bin/Debug/netcoreapp2.0/warningcpu.dll
+/Users/anjanikumar/Projects/Anshu/warningcpu/bin/Debug/netcoreapp2.0/warningcpu.pdb
+/Users/anjanikumar/Projects/Anshu/warningcpu/obj/Debug/netcoreapp2.0/warningcpu.csproj.CoreCompileInputs.cache
+/Users/anjanikumar/Projects/Anshu/warningcpu/obj/Debug/netcoreapp2.0/warningcpu.AssemblyInfoInputs.cache
+/Users/anjanikumar/Projects/Anshu/warningcpu/obj/Debug/netcoreapp2.0/warningcpu.AssemblyInfo.cs
+/Users/anjanikumar/Projects/Anshu/warningcpu/obj/Debug/netcoreapp2.0/warningcpu.dll
+/Users/anjanikumar/Projects/Anshu/warningcpu/obj/Debug/netcoreapp2.0/warningcpu.pdb
